@@ -79,11 +79,11 @@ button:hover {
 .random-btn {
   position: relative;
   padding: 12px 35px;
-  background: #5e003a;
+  background: #48002d;
   font-size: 17px;
   font-weight: 550;
   color: #ffa6d7;
-  border: 3px solid #5e003a;
+  border: 3px solid #48002d;
   border-radius: 8px;
   box-shadow: 0 0 0 #fec1958c;
   transition: all 0.3s ease-in-out;
